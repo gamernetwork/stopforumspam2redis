@@ -4,7 +4,7 @@ def chunker(stream):
     op = []
     for l in stream:
         op.append("\"" + l.strip() + "\"")
-        if len(op) >= 200:
+        if len(op) >= 10:
             yield op
             op = []
     yield op
