@@ -1,3 +1,5 @@
+Want to work for Gamer Network? [We are hiring!](http://www.gamesindustry.biz/jobs/gamer-network)
+
 # stopforumspam2redis
 
 Import the stopforumspam.com IP database into a redis set for easy lookups
